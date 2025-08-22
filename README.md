@@ -21,8 +21,6 @@ chama_senha/
 │   ├── painel.html       # Tela do painel de senhas
 │   └── atendimento.html  # Tela de atendimento
 
-
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3 + Flask**
