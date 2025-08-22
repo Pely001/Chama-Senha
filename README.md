@@ -12,6 +12,7 @@ A ideia é simular um **sistema de chamada de senhas** para filas de atendimento
 
 ## 📂 Estrutura do Projeto
 
+``` bash
 chama_senha/
 │── app.py                # Backend principal (Flask)
 │── static/
@@ -20,6 +21,7 @@ chama_senha/
 │── templates/
 │   ├── painel.html       # Tela do painel de senhas
 │   └── atendimento.html  # Tela de atendimento
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
