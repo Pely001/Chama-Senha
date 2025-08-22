@@ -46,19 +46,19 @@ chama_senha/
    cd chama_senha
 2. Crie um ambiente virtual e instale as dependências:
   ```
-  python -m venv venv
-  source venv/bin/activate  # Linux/Mac
-  venv\Scripts\activate     # Windows
-  pip install flask
+     python -m venv venv
+     source venv/bin/activate  # Linux/Mac
+     venv\Scripts\activate     # Windows
+     pip install flask
   ```
 
 3. Execute o servidor:
    ```
-   python app.py
+      python app.py
    ```
 4. Abra no navegador:
   ```
-   http://127.0.0.1:5000
+      http://127.0.0.1:5000
   ```
 
 ## 📌 Próximos Passos (Sugestões de Melhoria)
