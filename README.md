@@ -41,9 +41,10 @@ chama_senha/
 ## ▶️ Como Rodar o Projeto
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/chama_senha.git
-   cd chama_senha
+   ```
+      git clone https://github.com/seu-usuario/chama_senha.git
+      cd chama_senha
+   ```
 2. Crie um ambiente virtual e instale as dependências:
   ```
      python -m venv venv
@@ -53,9 +54,9 @@ chama_senha/
   ```
 
 3. Execute o servidor:
-   ```
-        python app.py
-   ```
+  ```
+     python app.py
+  ```
 4. Abra no navegador:
   ```
       http://127.0.0.1:5000
