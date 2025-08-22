@@ -54,7 +54,7 @@ chama_senha/
 
 3. Execute o servidor:
    ```
-       python app.py
+        python app.py
    ```
 4. Abra no navegador:
   ```
